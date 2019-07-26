@@ -11,6 +11,6 @@ A New todo list react app which is similar to the old Reminder Pro App. The diff
 * Clear All todo list
 
 Some Screenshots of the app in work:
-[ToDo List App](./screenshot/screen1)
-[Listing the items](./screenshot/screen2)
-[Editing the items](./screenshot/screen3)
+![ToDo List App](screenshot/screen1.png)
+![Listing the items](screenshot/screen2.png)
+![Editing the items](screenshot/screen3.png)
